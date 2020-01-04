@@ -1,7 +1,8 @@
 # Módulo Cielo 3.0 Magento 2
+
 Integração entre o Magento 2 e a API 3.0 da Cielo
 
-## PRINCIPAIS FUNCIONALIDADES E VANTAGENS
+## Principais Funcionalidades e Vantagens
 
 * Otimizado para conversão
 * 2 opções de layout para cartão de crédito
@@ -20,7 +21,7 @@ Integração entre o Magento 2 e a API 3.0 da Cielo
 * Funciona em todos os Temas
 * Compatível com Magento 2.2.x/2.3.x
 
-## OTIMIZADO PARA CONVERSÃO
+## Interface Otimizada
 
 <img src="https://www.modulomagento.com.br/plugin/wp-content/uploads/2019/12/cielo-magento2-exemplo-cartao-3.gif" />
 
@@ -28,12 +29,22 @@ Otimizamos ao máximo a exibição dos campos e adicionamos uma simulação em t
 
 Essa funcionalidade está disponível nas versões para notebooks, tablets e mobile.
 
-## SOBRE
+## Sobre
 
 Otimizado para aumentar a conversão de vendas, o Módulo Cielo 3.0 para Magento 2 que realiza as transações no modo transparente, confira!
 
 O módulo cielo para Magento 2 foi pensado para aumentar a conversão de vendas de sua loja. Na tela de pagamento inserimos diversos detalhes que facilitam o entendimento do usuário na hora de fechar a compra. Além disso o módulo realiza diversos tratamentos avisando o usuário caso ele digite algo errado, diminuindo o risco de alguma transação não ser aprovada por um erro de digitação.
 
-## PREÇO
+## Compatível com as versões
 
-<a href="https://www.modulomagento.com.br/modulo-cielo-magento-2">Acesse nossa loja virtual.</a>
+* 2.1.x
+* 2.2.x
+* 2.3.x
+
+## Instalação
+
+Link para compra em nossa loja: <a href="https://www.modulomagento.com.br/modulo-cielo-magento-2">Módulo Cielo Magento 2</a>
+
+## Documentação
+
+Link para a documentação do módulo: <a href="https://www.cursomagento.com.br/blog/cielo-magento/">Acesse aqui</a>.
