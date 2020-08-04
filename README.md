@@ -40,6 +40,7 @@ O módulo cielo para Magento 2 foi pensado para aumentar a conversão de vendas 
 * 2.1.x
 * 2.2.x
 * 2.3.x
+* 2.4.x
 
 ## Instalação
 
