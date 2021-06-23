@@ -19,7 +19,7 @@ Integração entre o Magento 2 e a API 3.0 da Cielo
 * Upgrades para Sempre
 * Atendimento por Whatsapp
 * Funciona em todos os Temas
-* Compatível com Magento 2.2.x/2.3.x
+* Compatível com Magento 2.3.x e 2.4.x
 
 ## Interface Otimizada
 
@@ -37,8 +37,6 @@ O módulo cielo para Magento 2 foi pensado para aumentar a conversão de vendas 
 
 ## Compatível com as versões
 
-* 2.1.x
-* 2.2.x
 * 2.3.x
 * 2.4.x
 
